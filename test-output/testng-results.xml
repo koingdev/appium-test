@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22445" started-at="2017-12-13T01:34:22Z" finished-at="2017-12-13T01:34:44Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22445" started-at="2017-12-13T01:34:22Z" finished-at="2017-12-13T01:34:44Z">
+      <class name="com.koingdev.appium.RucTestNG">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.koingdev.appium.RucTestNG@6a41eaa2]" name="setUp" is-config="true" duration-ms="5312" started-at="2017-12-13T08:34:22Z" finished-at="2017-12-13T08:34:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testCheckDefaultScreenName()[pri:0, instance:com.koingdev.appium.RucTestNG@6a41eaa2]" name="testCheckDefaultScreenName" duration-ms="1689" started-at="2017-12-13T08:34:27Z" finished-at="2017-12-13T08:34:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCheckDefaultScreenName -->
+        <test-method status="PASS" signature="takeBreak()[pri:0, instance:com.koingdev.appium.RucTestNG@6a41eaa2]" name="takeBreak" is-config="true" duration-ms="1002" started-at="2017-12-13T08:34:29Z" finished-at="2017-12-13T08:34:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeBreak -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.koingdev.appium.RucTestNG@6a41eaa2]" name="setUp" is-config="true" duration-ms="4602" started-at="2017-12-13T08:34:30Z" finished-at="2017-12-13T08:34:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testClickOnFirstCell()[pri:9, instance:com.koingdev.appium.RucTestNG@6a41eaa2]" name="testClickOnFirstCell" duration-ms="2179" started-at="2017-12-13T08:34:35Z" finished-at="2017-12-13T08:34:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testClickOnFirstCell -->
+        <test-method status="PASS" signature="takeBreak()[pri:0, instance:com.koingdev.appium.RucTestNG@6a41eaa2]" name="takeBreak" is-config="true" duration-ms="1002" started-at="2017-12-13T08:34:37Z" finished-at="2017-12-13T08:34:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeBreak -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.koingdev.appium.RucTestNG@6a41eaa2]" name="setUp" is-config="true" duration-ms="4564" started-at="2017-12-13T08:34:38Z" finished-at="2017-12-13T08:34:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testClickOnMenu()[pri:10, instance:com.koingdev.appium.RucTestNG@6a41eaa2]" name="testClickOnMenu" duration-ms="1065" started-at="2017-12-13T08:34:42Z" finished-at="2017-12-13T08:34:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testClickOnMenu -->
+        <test-method status="PASS" signature="takeBreak()[pri:0, instance:com.koingdev.appium.RucTestNG@6a41eaa2]" name="takeBreak" is-config="true" duration-ms="1003" started-at="2017-12-13T08:34:43Z" finished-at="2017-12-13T08:34:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeBreak -->
+      </class> <!-- com.koingdev.appium.RucTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

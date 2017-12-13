@@ -1,2 +1,7 @@
-# appium-test
-Practice Test Automation with Appium and Selenium for better testing
+# test-automation
+
+Practice
+========
+- Test Automation with Appium and Selenium <br>
+- Set Test-case execution order with JUnit and TestNG
+

@@ -14,12 +14,13 @@ import static org.junit.Assert.assertEquals;
 import java.net.MalformedURLException;
 import java.net.URL;
 import org.openqa.selenium.remote.DesiredCapabilities;
+import org.testng.annotations.AfterMethod;
 
 /*
  * This will start our test-case from A - Z (ASC)
  */
 @FixMethodOrder(MethodSorters.NAME_ASCENDING)
-public class RucTest {
+public class RucJUnit {
 
   private IOSDriver driver;
 
@@ -72,11 +73,11 @@ public class RucTest {
   }
 
   @After
-  public void tearDown() {
+  public void takeBreak() {
 	  try {
 		//delay 1sec before exit
 		Thread.sleep(1000);
-		driver.quit();
+		//driver.quit();
 	  } catch (InterruptedException e) {
 		e.printStackTrace();
 	  }
